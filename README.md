@@ -1,6 +1,6 @@
 # USB-CPS Power Supply
 
-<img width="1033" height="814" alt="Untitled" src="https://github.com/user-attachments/assets/e23e3ce4-4354-449f-bcae-c1983c0c0bfa" />
+<img width="1033" height="794" alt="Untitled" src="https://github.com/user-attachments/assets/773fabe3-6926-4209-8c2d-0735bab3b0e4" />
 
 
 ## Highlights
@@ -75,6 +75,7 @@ Specifications
 
 **Sujin Shakya**  
 GitHub: https://github.com/sujinshakyaut 
+
 
 
 
