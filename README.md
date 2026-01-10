@@ -1,24 +1,25 @@
-# PPS-Enabled USB-C Power Supply (I2C Integrated)
+# USB-CPS Power Supply
 
-![Board](https://github.com/user-attachments/assets/0ff5ac3c-2cdf-4d28-b5ed-92fe5b61096c)
+<img width="1033" height="794" alt="Untitled" src="https://github.com/user-attachments/assets/773fabe3-6926-4209-8c2d-0735bab3b0e4" />
+
 
 ## Highlights
 
-- USB-C Power Delivery breakout board with **PPS support**
+- USB-C Power Delivery breakout board based on the **PPS protocol** and PD capabilities of USB-C.
 - Programmable, regulated output from **5 V to 24 V**
 - Dynamic voltage and current negotiation with **PD-compliant chargers**
 - Simple **I²C interface** for configuration and real-time monitoring
-- Built-in protection: **OVP, UVP, OCP, and OTP**
+- Built-in protection by AP33772S: **OVP, UVP, OCP, and OTP**
 
 ---
 
 ## Libraries
 
-- [PD Arduino Library (CentyLab)](https://github.com/CentyLab/AP33772S-CentyLab?utm_source=chatgpt.com)
+- [Arduino Library (CentyLab)](https://github.com/CentyLab/AP33772S-CentyLab?utm_source=chatgpt.com)
 <img width="488" height="321" alt="image" src="https://github.com/user-attachments/assets/8d805f9e-a49d-40c4-9599-1920624cc547" />
 
-- [PD Controller Sink Datasheet (Diodes Inc)](https://www.diodes.com/datasheet/download/AP33772S.pdf?utm_source=chatgpt.com)  
-- [Sample Evaluation Board Guide)](https://www.diodes.com/assets/Evaluation-Boards/AP33772S-Sink-Controller-EVB-User-Guide.pdf)
+- [AP33772S PD Controller Sink Datasheet (Diodes Inc)](https://www.diodes.com/datasheet/download/AP33772S.pdf?utm_source=chatgpt.com)  
+- [Breakout Board Evaluation Board Guide)](https://www.diodes.com/assets/Evaluation-Boards/AP33772S-Sink-Controller-EVB-User-Guide.pdf)
 
 ---
 
@@ -74,6 +75,14 @@ Specifications
 
 **Sujin Shakya**  
 GitHub: https://github.com/sujinshakyaut 
+
+
+
+
+
+
+
+
 
 
 
